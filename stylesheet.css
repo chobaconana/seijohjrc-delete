@@ -3,12 +3,13 @@ body {
   padding: 0;
   background-color: #E9E8E3; /* 任意の背景色 */
   height: 100vh;
+  font-family: "Hiragino Sans";
   
 }
 .top {
   margin: 0;
   padding: 0;
-  background-color: black;
+  background-color: blue;
   color: white;
   height: 100vh;
 }
