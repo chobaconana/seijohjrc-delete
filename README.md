@@ -1,2 +1,2 @@
-# seijoh-jrc.github.io
+# seijoh-jrc Webpage
 頑張って書いてる！！！
